@@ -11,6 +11,7 @@ namespace evernoteapp
         static void Main(string[] args)
         {
             //npote
+            Console.WriteLine("osman");
         }
     }
 }
